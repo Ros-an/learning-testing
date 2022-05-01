@@ -1,0 +1,1 @@
+// script object inside package -> npm test will trigger jest to run
